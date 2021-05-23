@@ -1,5 +1,5 @@
 {
-  "name": "shield",
+  "name": "dawai",
   "version": "1.0.0",
   "description": "A NPM command line interface to fetch  number of beds, slots etc. available in any perticular state of India",
   "main": "bin/index.js",
@@ -25,5 +25,6 @@
   },
   "bin": {
     "shield": "./bin/index.js"
-  }
+  },
+  "files":["NOTICE","README","LICENSE","index.js","districts.js","slots.js","states.js","bin","node_modules"]
 }
