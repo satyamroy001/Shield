@@ -4,7 +4,7 @@
   "description": "A NPM command line interface to fetch  number of beds, slots etc. available in any perticular state of India",
   "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "keywords": [
     "Covid-19",
