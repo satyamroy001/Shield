@@ -27,14 +27,13 @@
     "shield": "./bin/index.js"
   },
   "files": [
-    "NOTICE",
-    "README",
-    "LICENSE",
+    
     "index.js",
-    "districts.js",
-    "slots.js",
-    "states.js",
+    "../utils/districts.js",
+    "../utils/slots.js",
+    "../utils/states.js",
     "bin",
-    "node_modules"
+    "node_modules",
+    "util"
   ]
 }
