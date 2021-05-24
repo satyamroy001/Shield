@@ -27,13 +27,7 @@
     "shield": "./bin/index.js"
   },
   "files": [
+    "util/", "node_modules/", "bin/"
     
-    "index.js",
-    "../utils/districts.js",
-    "../utils/slots.js",
-    "../utils/states.js",
-    "bin",
-    "node_modules",
-    "util"
   ]
 }
