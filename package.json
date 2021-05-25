@@ -29,6 +29,7 @@
   "files": [
     "util/",
     "node_modules/",
-    "bin/"
+    "bin/",
+    "README.md"
   ]
 }
