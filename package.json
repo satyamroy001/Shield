@@ -24,7 +24,7 @@
     "tty-table": "^4.1.3"
   },
   "bin": {
-    "shield": "./bin/index.js"
+    "dawai": "./bin/index.js"
   },
   "files": [
     "util/",
