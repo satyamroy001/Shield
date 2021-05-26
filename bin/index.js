@@ -22,9 +22,9 @@ program
   .action(slots);
   program
   .command('developer')
-  .description('Gell to know about the developer')
+  .description('Get to know about the developer')
   .action(function(){
-      console.log("Made with love by satyam roy, a 19-year old kid")
+      console.log("Made with love by satyam roy, from west bengal India")
   })
 
 
